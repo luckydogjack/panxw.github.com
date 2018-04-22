@@ -3,13 +3,13 @@ highlighter: rouge
 permalink: /:categories/:title.html 
 excerpt_separator: "<!-- more -->"
 
-github: panxw
-author: "panxw"
-email: winfirm#163.com
-name: "Panxw's Blog"
+github: luckydogjack
+author: "luckydogjack"
+email: lxj1435359352#126.com
+name: "luckydogjack's Blog"
 baseurl: /
-url: http://www.panxw.com
-domain: www.panxw.com
+url: https://luckydogjack.github.io/
+domain: luckydogjack.github.io
 
 all_categories: [
   ["android", "Android开发","/android/index.html"], 
@@ -41,4 +41,4 @@ collections:
     output: true
 
 copyright: []
-#timezone: Asia/Shanghai
+#timezone: Asia/Guangzhou
